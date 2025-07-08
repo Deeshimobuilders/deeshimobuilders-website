@@ -1,50 +1,25 @@
-
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f9f9f9;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 header {
-  background: #1f3c88;
-  color: white;
-  padding: 15px;
-  text-align: center;
-}
-header .logo {
-  max-height: 80px;
-  margin-bottom: 10px;
+    background: #007acc;
+    color: white;
+    padding: 10px;
+    text-align: center;
 }
 nav a {
-  color: white;
-  margin: 0 10px;
-  text-decoration: none;
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
 }
 main {
-  padding: 20px;
-}
-.client-logo, .project-photo {
-  width: 300px;
-  margin-top: 10px;
-  border: 1px solid #ccc;
-}
-.pdf-link {
-  font-size: 16px;
-  font-weight: bold;
-  color: #1f3c88;
+    padding: 20px;
 }
 footer {
-  text-align: center;
-  padding: 20px;
-  background: #333;
-  color: white;
-}
-.whatsapp-button {
-  display: inline-block;
-  margin-top: 10px;
-  padding: 10px 15px;
-  background: #25D366;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
+    background: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+    margin-top: 30px;
 }
